@@ -65,6 +65,7 @@ available_series <- function(language = c("en", "br")) {
 
     # Setting labels in selected language
     if (language == 'en') {
+      
 
       series %<>%
         dplyr::mutate_(SERSTATUS = ~ factor(SERSTATUS,
