@@ -15,6 +15,8 @@ devtools::install_git("https://gitlab.com/ipeadata-pkg/ipeadata",
 library(ipeadata)
 ````
 
+[![Travis build status](https://travis-ci.org/jessgoltara/pkg-ipeadata.svg?branch=master)](https://travis-ci.org/jessgoltara/pkg-ipeadata)
+
 ## Help
 
 For more details and examples, see [R Documentation](https://drive.google.com/open?id=1Kke-SFOkWtmaXMP2sXs0-vPRj7fu86iS).
